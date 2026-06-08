@@ -1,3 +1,11 @@
+---
+layout: default
+title: "Database Candidati Formaper"
+description: "Elenco e profili dei candidati qualificati del corso Formaper per attività di selezione."
+lang: it
+---
+# Elenco Candidati e Profili Professionali
+
 ### Candidato: Andrea Testa \n**Email:** testawork@gmail.com \n**Ambito professionale:** Management\n**Ruolo:** Manager \n**Anni di esperienza:** 1 \n**Corso Formaper:**  Meccanico riparatore di biciclette #5 \n**Titolo di studio:** Master di primo livello \n**Domicilio:** Via Enrico Cosenz, 54, 20158 Milano MI, Italia
 
 ### Candidato: Carlotta Tomaselli \n**Email:** carlottatomaselli1@gmail.com \n**Ambito professionale:** Altro\n**Ruolo:** Product \n**Anni di esperienza:** 1 \n**Corso Formaper:**  Meccanico riparatore di biciclette #5 \n**Titolo di studio:** Diploma \n**Domicilio:** 20162 Milano MI, Italia
