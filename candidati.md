@@ -47,7 +47,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Diploma   
 **Domicilio:** 20125 Milano MI, Italia   
-**CV:** Phoba_CV   
+**CV:** https://drive.google.com/file/d/1a6iqUITxadCukSEIRP8mtg4C1SujueT0/view?usp=sharing   
 **Pitch:** Phoba_PITCH   
 
 ### Candidato: Cinzia Minghetti   
@@ -58,7 +58,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Laura specialistica   
 **Domicilio:** 20099 Sesto San Giovanni MI, Italia   
-**CV:** Minghetti_CV   
+**CV:** https://drive.google.com/file/d/1tgtWC3l20uwIvqm4UcAnZhFVCkBLMyTq/view?usp=sharing   
 **Pitch:** Minghetti_PITCH   
 
 ### Candidato: Elisa Previtali   
@@ -80,7 +80,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Diploma   
 **Domicilio:** Viale Ungheria, 13, 20138 Milano MI, Italia   
-**CV:** Valecce_CV   
+**CV:** https://drive.google.com/file/d/116i-IGwWC8iYpWUsphZ8xEzpT8INuOva/view?usp=sharing   
 **Pitch:** Valecce_PITCH   
 
 ### Candidato: Francesco Pippa   
@@ -135,7 +135,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Laura specialistica   
 **Domicilio:** Via Gallarate , 30, 20151 Milano MI, Italia   
-**CV:** Niessner_CV   
+**CV:** https://drive.google.com/file/d/1GKEDfWngyUD-sz_rCW16vZckm-bTHFQN/view?usp=sharing   
 **Pitch:** Niessner_PITCH   
 
 ### Candidato: Leandro Modini   
@@ -190,7 +190,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Laurea triennale   
 **Domicilio:** 20095 Cusano Milanino MI, Italia   
-**CV:** Mazzeo_CV   
+**CV:** https://drive.google.com/file/d/1fWto6sYwGuapgpJ-zj1L4-iMYcgY8jzM/view?usp=sharing   
 **Pitch:** Mazzeo_PITCH   
 
 ### Candidato: MARCO CATANZARO   
@@ -234,7 +234,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Scuola dell'obbligo   
 **Domicilio:** Via roma , 2, 21040 Sumirago, Lombardia   
-**CV:** Ferro_CV   
+**CV:** https://drive.google.com/file/d/1U72JRLM57a_IWxJFoFhRNtJiZ0x5C14m/view?usp=sharing   
 **Pitch:** Ferro_PITCH   
 
 ### Candidato: Michele Rucco   
@@ -267,7 +267,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** DIPLOMA DI ISTRUZIONE SECONDARIA SUPERIORE; Diploma   
 **Domicilio:** Via Giorgio Washington, 109, 20146 Milano MI, Italia   
-**CV:** Gobbi_CV   
+**CV:** https://drive.google.com/file/d/1TMOUJMUtzVVg-RlcBSEsdiU8mOmu-3FU/view?usp=sharing   
 **Pitch:** Gobbi_PITCH   
 
 ### Candidato: Savannah Anastasia Iona Ney   
@@ -278,7 +278,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Laurea triennale   
 **Domicilio:** 20141 Milano MI, Italia   
-**CV:** Ney_CV   
+**CV:** https://drive.google.com/file/d/16V73LEp82Mm4yFnI0Cl0Te8QjcI9bPuT/view?usp=sharing   
 **Pitch:** Ney_PITCH   
 
 ### Candidato: Sofia Cavraro   
@@ -300,7 +300,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Scuola dell'obbligo   
 **Domicilio:** Via dei navigli, 1, 20094 Corsico MI, Italia   
-**CV:** Metta_CV   
+**CV:** https://drive.google.com/file/d/1AxjIdLCxjWkfJBaY6LHNK7NrcwIOLxO1/view?usp=sharing   
 **Pitch:** Metta_PITCH   
 
 ### Candidato: Valeriano Pietrella   
@@ -311,7 +311,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Laurea triennale   
 **Domicilio:** Via Piemonte, 3, 20095 Cusano Milanino MI, Italia   
-**CV:** Pietrella_CV   
+**CV:** https://drive.google.com/file/d/1s1JTlsf4jeUfoUOy9_Lf7K3YXOfrrCn7/view?usp=sharing   
 **Pitch:** Pietrella_PITCH   
 
 ### Candidato: XiaangYu Zhang   
@@ -344,7 +344,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Diploma   
 **Domicilio:** 20141 Milano MI, Italia   
-**CV:** dalo_CV   
+**CV:** https://drive.google.com/file/d/1kff1dHJ4XYJPNIZPWQqVTuCL25GuJOJ7/view?usp=sharing   
 **Pitch:** dalo_PITCH   
 
 ### Candidato: tommaso manzoni   
@@ -355,7 +355,7 @@ lang: it
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
 **Titolo di studio:** Diploma   
 **Domicilio:** via alfredo cappellini, 10, 20124 Milano MI, Italia   
-**CV:** manzoni_CV   
+**CV:** https://drive.google.com/file/d/1Brb3FKaplhj3cOW9AvvBoUl-rH0HHJXB/view?usp=sharing   
 **Pitch:** manzoni_PITCH   
 
 ### Candidato: Angela Allegretto   
