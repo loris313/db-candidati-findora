@@ -12,9 +12,9 @@ lang: it
 **Ruolo:** Tecnico Industriale   
 **Anni di esperienza:** 15   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** DIPLOMA DI ISTRUZIONE SECONDARIA SUPERIORE; Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20060 Gessate MI, Italia   
-**CV:** Garcia Cristalli_CV   
+**CV:** https://drive.google.com/file/d/1X-dfXnNg06iiqbv4e9Xt3_AZ7La4beKn/view?usp=sharing   
 **Pitch:** Garcia Cristalli_PITCH   
 
 ### Candidato: Andrea Testa   
@@ -23,9 +23,9 @@ lang: it
 **Ruolo:** Manager   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** Via Enrico Cosenz, 54, 20158 Milano MI, Italia   
-**CV:** Testa_CV   
+**CV:** https://drive.google.com/file/d/1LMNOeEajg9mlOwnlRPCk3dBFhtDl5DEh/view?usp=drive_link   
 **Pitch:** Testa_PITCH   
 
 ### Candidato: Carlotta Tomaselli   
@@ -34,9 +34,9 @@ lang: it
 **Ruolo:** Product   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20162 Milano MI, Italia   
-**CV:** Tomaselli_CV   
+**CV:** https://drive.google.com/file/d/1V8L1J0d1ZIVRDHdwB8in7nh85moxFPIQ/view?usp=drive_link   
 **Pitch:** Tomaselli_PITCH   
 
 ### Candidato: Chico Joel Phoba   
@@ -45,7 +45,7 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 15   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20125 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1a6iqUITxadCukSEIRP8mtg4C1SujueT0/view?usp=sharing   
 **Pitch:** Phoba_PITCH   
@@ -56,7 +56,7 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 30   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20099 Sesto San Giovanni MI, Italia   
 **CV:** https://drive.google.com/file/d/1tgtWC3l20uwIvqm4UcAnZhFVCkBLMyTq/view?usp=sharing   
 **Pitch:** Minghetti_PITCH   
@@ -67,9 +67,9 @@ lang: it
 **Ruolo:** Graphic Designer   
 **Anni di esperienza:** 14   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20155 Milano MI, Italia   
-**CV:** Previtali_CV   
+**CV:** https://drive.google.com/file/d/1ukr8ruklMGNftyu8FtQ8JZVUWzGlMbhd/view?usp=drive_link   
 **Pitch:** Previtali_PITCH   
 
 ### Candidato: Emanuele Valecce   
@@ -78,7 +78,7 @@ lang: it
 **Ruolo:** Consulente assicurativo   
 **Anni di esperienza:** 22   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** Viale Ungheria, 13, 20138 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/116i-IGwWC8iYpWUsphZ8xEzpT8INuOva/view?usp=sharing   
 **Pitch:** Valecce_PITCH   
@@ -89,9 +89,9 @@ lang: it
 **Ruolo:** L&D Training Liaison & Driver Trainer   
 **Anni di esperienza:** 11   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** DIPLOMA DI ISTRUZIONE SECONDARIA SUPERIORE; Diploma   
+**Titolo di studio:**    
 **Domicilio:** Via Giacomo Leopardi, 5b, 20045 Barbaiana MI, Italia   
-**CV:** Pippa_CV   
+**CV:** https://drive.google.com/file/d/1t-WAkinhUjTc3OOfHDGwKrhKsbyGDf2Z/view?usp=sharing   
 **Pitch:** Pippa_PITCH   
 
 ### Candidato: Gilbert Jose Rumbos Felicioni   
@@ -100,9 +100,9 @@ lang: it
 **Ruolo:** Tappezzeria auto   
 **Anni di esperienza:** 10   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** 20147 Milano MI, Italia   
-**CV:** Rumbos Felicioni_CV   
+**CV:** https://drive.google.com/file/d/1UoCxapDL0TirlpyGT6lNkySwIfhAVXsj/view?usp=drive_link   
 **Pitch:** Rumbos Felicioni_PITCH   
 
 ### Candidato: Giorgio Maria Radaelli   
@@ -111,9 +111,9 @@ lang: it
 **Ruolo:** Planning Analyst   
 **Anni di esperienza:** 20   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** DIPLOMA DI ISTRUZIONE SECONDARIA SUPERIORE; Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20852 Villasanta MB, Italia   
-**CV:** Radaelli_CV   
+**CV:** https://drive.google.com/file/d/1b3LPCVuS8geyMno8G8HULc3t3XpLzmSV/view?usp=sharing   
 **Pitch:** Radaelli_PITCH   
 
 ### Candidato: Giulio Shusei Colombo Taccani   
@@ -122,9 +122,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Luigi Sacco, 5, 20146 Milano MI, Italia   
-**CV:** Colombo Taccani_CV   
+**CV:** https://drive.google.com/file/d/1TYie0unCq8HGBfo1NSqtmO3BgyMJeV84/view?usp=drive_link   
 **Pitch:** Colombo Taccani_PITCH   
 
 ### Candidato: Guido Marcello Niessner   
@@ -133,7 +133,7 @@ lang: it
 **Ruolo:** Marketing Manager   
 **Anni di esperienza:** 35   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Gallarate , 30, 20151 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1GKEDfWngyUD-sz_rCW16vZckm-bTHFQN/view?usp=sharing   
 **Pitch:** Niessner_PITCH   
@@ -144,9 +144,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20853 Biassono MB, Italia   
-**CV:** Modini_CV   
+**CV:** https://drive.google.com/file/d/1_WbI7Ohq8n-gXvaa3MnjKdDkqxh3cBU-/view?usp=drive_link   
 **Pitch:** Modini_PITCH   
 
 ### Candidato: Leonardo Lo Giudice   
@@ -155,9 +155,9 @@ lang: it
 **Ruolo:** CREW   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** ISTRUZIONE SECONDARIA SUPERIORE (NO ACCESSO ALL'UNIVERSITà€); Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** Via Gaetano Strambio, 23, 20133 Milano MI, Italia   
-**CV:** Lo Giudice_CV   
+**CV:** https://drive.google.com/file/d/1H4GuazxZ1OC70E-kuPQtQSBPrezcBHpZ/view?usp=drive_link   
 **Pitch:** Lo Giudice_PITCH   
 
 ### Candidato: Leopoldo Maldi   
@@ -166,9 +166,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** Via Fauchà¨, 35, 20154 Milano MI, Italia   
-**CV:** Maldi_CV   
+**CV:** https://drive.google.com/file/d/1-7ASOuv8KNQIkI90JmszLQj6IcQaQsz1/view?usp=sharing   
 **Pitch:** Maldi_PITCH   
 
 ### Candidato: Lorenzo Pierico   
@@ -177,9 +177,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 40   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** via Pomponazzi, 22, 20141 Milano MI, Italia   
-**CV:** Pierico_CV   
+**CV:** https://drive.google.com/file/d/1UpyJvx9fF1_FJLdOxv5SQkJev4ZhjKU_/view?usp=drive_link   
 **Pitch:** Pierico_PITCH   
 
 ### Candidato: Luca Mazzeo   
@@ -188,7 +188,7 @@ lang: it
 **Ruolo:** Junior   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20095 Cusano Milanino MI, Italia   
 **CV:** https://drive.google.com/file/d/1fWto6sYwGuapgpJ-zj1L4-iMYcgY8jzM/view?usp=sharing   
 **Pitch:** Mazzeo_PITCH   
@@ -199,9 +199,9 @@ lang: it
 **Ruolo:** meccanico biciclette   
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** 27038 Robbio PV, Italia   
-**CV:** CATANZARO_CV   
+**CV:** https://drive.google.com/file/d/1ig2mJvAlkEwC0V2bJfskKnL8P4SXW8iv/view?usp=drive_link   
 **Pitch:** CATANZARO_PITCH   
 
 ### Candidato: Marco Fabbretti   
@@ -210,9 +210,9 @@ lang: it
 **Ruolo:** Project Marketing Manager   
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Bazzana inferiore, 4, 20057 Assago MI, Italia   
-**CV:** Fabbretti_CV   
+**CV:** https://drive.google.com/file/d/1HErtQcsOJTODUXQPDCcU0EmT1quI6AqK/view?usp=drive_link   
 **Pitch:** Fabbretti_PITCH   
 
 ### Candidato: Marco Porceddu   
@@ -221,9 +221,9 @@ lang: it
 **Ruolo:** assistenza   
 **Anni di esperienza:** 21   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** via luigi calori, 25/B, 20085 Locate di Triulzi MI, Italia   
-**CV:** Porceddu_CV   
+**CV:** https://drive.google.com/file/d/1EM4W8Hjsp4AkSgZ2BS24C93KRg-dEnUj/view?usp=drive_link   
 **Pitch:** Porceddu_PITCH   
 
 ### Candidato: Mattia Ferro   
@@ -232,7 +232,7 @@ lang: it
 **Ruolo:** Strutturista aeronautico   
 **Anni di esperienza:** 15   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** Via roma , 2, 21040 Sumirago, Lombardia   
 **CV:** https://drive.google.com/file/d/1U72JRLM57a_IWxJFoFhRNtJiZ0x5C14m/view?usp=sharing   
 **Pitch:** Ferro_PITCH   
@@ -243,9 +243,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 10   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20159 Milano MI, Italia   
-**CV:** Rucco_CV   
+**CV:** https://drive.google.com/file/d/1E-WSLSVvU6IxTjuhD6dR2U6PXqsse-Tz/view?usp=drive_link   
 **Pitch:** Rucco_PITCH   
 
 ### Candidato: Nicola Carratta   
@@ -254,9 +254,9 @@ lang: it
 **Ruolo:** Quality Checker   
 **Anni di esperienza:** 15   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** DIPLOMA UNIVERSITARIO; Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Valle Antrona, 1, 20152 Milano MI, Italia   
-**CV:** Carratta_CV   
+**CV:** https://drive.google.com/file/d/1uJTmUDOFfhwys9Z_Xb3n690-n8EoNPff/view?usp=sharing   
 **Pitch:** Carratta_PITCH   
 
 ### Candidato: NicolÃ² Gobbi   
@@ -265,7 +265,7 @@ lang: it
 **Ruolo:** CASSIERE   
 **Anni di esperienza:** 20   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** DIPLOMA DI ISTRUZIONE SECONDARIA SUPERIORE; Diploma   
+**Titolo di studio:**    
 **Domicilio:** Via Giorgio Washington, 109, 20146 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1TMOUJMUtzVVg-RlcBSEsdiU8mOmu-3FU/view?usp=sharing   
 **Pitch:** Gobbi_PITCH   
@@ -276,7 +276,7 @@ lang: it
 **Ruolo:** Tutor di Inglese   
 **Anni di esperienza:** 6   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20141 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/16V73LEp82Mm4yFnI0Cl0Te8QjcI9bPuT/view?usp=sharing   
 **Pitch:** Ney_PITCH   
@@ -287,21 +287,10 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 8   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 21042 Caronno Pertusella VA, Italia   
-**CV:** Cavraro_CV   
+**CV:** https://drive.google.com/file/d/1fuax67qPtirhFSgkjoM3FxegtWCFrsUm/view?usp=drive_link   
 **Pitch:** Cavraro_PITCH   
-
-### Candidato: Stefano Metta   
-**Email:** smetta98@gmail.com  
-**Ambito professionale:** Altro  
-**Ruolo:** Altro   
-**Anni di esperienza:** 5   
-**Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
-**Domicilio:** Via dei navigli, 1, 20094 Corsico MI, Italia   
-**CV:** https://drive.google.com/file/d/1AxjIdLCxjWkfJBaY6LHNK7NrcwIOLxO1/view?usp=sharing   
-**Pitch:** Metta_PITCH   
 
 ### Candidato: Valeriano Pietrella   
 **Email:** valeriano.pietrella99@gmail.com  
@@ -309,7 +298,7 @@ lang: it
 **Ruolo:** Designer freelance   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Piemonte, 3, 20095 Cusano Milanino MI, Italia   
 **CV:** https://drive.google.com/file/d/1s1JTlsf4jeUfoUOy9_Lf7K3YXOfrrCn7/view?usp=sharing   
 **Pitch:** Pietrella_PITCH   
@@ -320,9 +309,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** 20161 Milano MI, Italia   
-**CV:** Zhang_CV   
+**CV:** https://drive.google.com/file/d/1v8qCsM3nCLv58Y7ClJqoLBmG1kf9HoG9/view?usp=drive_link   
 **Pitch:** Zhang_PITCH   
 
 ### Candidato: emanuele russo   
@@ -331,9 +320,9 @@ lang: it
 **Ruolo:** Magazziniere e assemblatore   
 **Anni di esperienza:** 22   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Scuola dell'obbligo   
+**Titolo di studio:**    
 **Domicilio:** Via Giuseppe parini , 15 A, 20845 Sovico MB, Italia   
-**CV:** russo_CV   
+**CV:** https://drive.google.com/file/d/1cY7TaTVNGmBHbhkKcy8ipL56GZl3a3y9/view?usp=drive_link   
 **Pitch:** russo_PITCH   
 
 ### Candidato: marghita dalo   
@@ -342,7 +331,7 @@ lang: it
 **Ruolo:** Project manager   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20141 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1kff1dHJ4XYJPNIZPWQqVTuCL25GuJOJ7/view?usp=sharing   
 **Pitch:** dalo_PITCH   
@@ -353,7 +342,7 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 6   
 **Corso Formaper:**  Meccanico riparatore di biciclette #5   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** via alfredo cappellini, 10, 20124 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Brb3FKaplhj3cOW9AvvBoUl-rH0HHJXB/view?usp=sharing   
 **Pitch:** manzoni_PITCH   
@@ -364,9 +353,9 @@ lang: it
 **Ruolo:** Biologo   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** LAUREA SPECIALISTICA - Nuovo ordinamento   
+**Titolo di studio:**    
 **Domicilio:** 20155 Milano MI, Italia   
-**CV:** Allegretto_CV   
+**CV:** https://drive.google.com/file/d/1Yv68rK9XpyDKkPHiwZ_5ebwQdf29V8VN/view?usp=drive_link   
 **Pitch:** Allegretto_PITCH   
 
 ### Candidato: Aurora Albertini   
@@ -375,9 +364,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 5   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea specialistica; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20138 Milano MI, Italia   
-**CV:** Albertini_CV   
+**CV:** https://drive.google.com/file/d/1HhGqBBZ4XhCFFOoNfwMFOwdIXBwKefgC/view?usp=drive_link   
 **Pitch:** Albertini_PITCH   
 
 ### Candidato: Barbara Laura Montrasio   
@@ -386,9 +375,9 @@ lang: it
 **Ruolo:** Customer Success Specialist   
 **Anni di esperienza:** 8   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20128 Milano MI, Italia   
-**CV:** Montrasio_CV   
+**CV:** https://drive.google.com/file/d/1ryRJicFM3pPyvB03DMS4tYHSulm-rmgB/view?usp=drive_link   
 **Pitch:** Montrasio_PITCH   
 
 ### Candidato: Camilla Danesi   
@@ -397,9 +386,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 10   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** Via Melozzo da forlà¬, 12, 20076 Mediglia MI, Italia   
-**CV:** Danesi_CV   
+**CV:** https://drive.google.com/file/d/1_F_Vw08J6IVORrL1Pw8eCA195e_60Yhj/view?usp=drive_link   
 **Pitch:** Danesi_PITCH   
 
 ### Candidato: Clizia Di Blasio   
@@ -408,9 +397,9 @@ lang: it
 **Ruolo:** Production Coordinator   
 **Anni di esperienza:** 9   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 21013 Gallarate VA, Italia   
-**CV:** Di Blasio_CV   
+**CV:** https://drive.google.com/file/d/1WrIjJjDMevtmBGjkufUDzuCCz1YUAV4t/view?usp=drive_link   
 **Pitch:** Di Blasio_PITCH   
 
 ### Candidato: Cristina Evola   
@@ -419,9 +408,9 @@ lang: it
 **Ruolo:** International Relations Assistant   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** 20162 Milano MI, Italia   
-**CV:** Evola_CV   
+**CV:** https://drive.google.com/file/d/1LUS1IsmEffPTkiAUdto5igcabah-1QN1/view?usp=drive_link   
 **Pitch:** Evola_PITCH   
 
 ### Candidato: Emma Pisciella   
@@ -430,9 +419,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 4   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20133 Milano MI, Italia   
-**CV:** Pisciella_CV   
+**CV:** https://drive.google.com/file/d/1rjhM25A5G8tu8a_s6Oawun3pVFO_sbT8/view?usp=drive_link   
 **Pitch:** Pisciella_PITCH   
 
 ### Candidato: Fabrizio Guerra Chavez   
@@ -441,9 +430,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Master di secondo livello   
+**Titolo di studio:**    
 **Domicilio:** Via Vincenzo da Seregno, 54, 20161 Milano MI, Italia   
-**CV:** Guerra Chavez_CV   
+**CV:** https://drive.google.com/file/d/10ZYU_CeUILUaeeTLTzWvDsrTlLOA4i8Y/view?usp=drive_link   
 **Pitch:** Guerra Chavez_PITCH   
 
 ### Candidato: Gaia Galimberti   
@@ -452,9 +441,9 @@ lang: it
 **Ruolo:** PR & COMMUNICATION SPECIALIST   
 **Anni di esperienza:** 9   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea specialistica; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** via bernina, 41, 20832 Desio MB, Italia   
-**CV:** Galimberti_CV   
+**CV:** https://drive.google.com/file/d/1faSyERxDBGjrxyVa2TyFNFWOVzhJvFUx/view?usp=drive_link   
 **Pitch:** Galimberti_PITCH   
 
 ### Candidato: Ginevra Piccinin   
@@ -463,21 +452,10 @@ lang: it
 **Ruolo:** Fotografa   
 **Anni di esperienza:** 4   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20139 Milano MI, Italia   
-**CV:** Piccinin_CV   
+**CV:** https://drive.google.com/file/d/18xG7cWwbv17dCcELsFwcfZKMrPGtdLsF/view?usp=drive_link   
 **Pitch:** Piccinin_PITCH   
-
-### Candidato: Giorgia Scala   
-**Email:** scala.giorgia02@gmail.com  
-**Ambito professionale:**   
-**Ruolo:**    
-**Anni di esperienza:** 0   
-**Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laura specialistica   
-**Domicilio:** Via Montale, 30, 26845 Codogno LO, Italia   
-**CV:** Scala_CV   
-**Pitch:** Scala_PITCH   
 
 ### Candidato: Irene Amato   
 **Email:** amatoirene27@gmail.com  
@@ -485,9 +463,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 26900 Lodi LO, Italia   
-**CV:** Amato_CV   
+**CV:** https://drive.google.com/file/d/1xO43f1y8VI8H_ie-xXF0uNbDJmegiwV8/view?usp=drive_link   
 **Pitch:** Amato_PITCH   
 
 ### Candidato: Marco Losi   
@@ -496,9 +474,9 @@ lang: it
 **Ruolo:** Materials System Integrator   
 **Anni di esperienza:** 5   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** LAUREA DI PRIMO LIVELLO - Nuovo ordinamento; Laura specialistica; LAUREA SPECIALISTICA - Nuovo ordinamento   
+**Titolo di studio:**    
 **Domicilio:** Via Carducci, 191/8, 21027 Ispra VA, Italia   
-**CV:** Losi_CV   
+**CV:** https://drive.google.com/file/d/1Yi2P5jKnjIxHRkiviZhfv5G0lnoPPSKo/view?usp=drive_link   
 **Pitch:** Losi_PITCH   
 
 ### Candidato: Sara Di Vincenzo   
@@ -507,9 +485,9 @@ lang: it
 **Ruolo:** Marketing Coordinator   
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** 27100 Pavia PV, Italia   
-**CV:** Di Vincenzo_CV   
+**CV:** https://drive.google.com/file/d/1ng64eLd1dgXfAVbrrgUMTBQE5UjFL5Ck/view?usp=drive_link   
 **Pitch:** Di Vincenzo_PITCH   
 
 ### Candidato: Sonia POLITO   
@@ -518,9 +496,9 @@ lang: it
 **Ruolo:** operations manager   
 **Anni di esperienza:** 7   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20149 Milano MI, Italia   
-**CV:** POLITO_CV   
+**CV:** https://drive.google.com/file/d/15CPpzrh5eVrgdGKygmQWLnlKd-6H9nGY/view?usp=drive_link   
 **Pitch:** POLITO_PITCH   
 
 ### Candidato: Valentina Ferreri   
@@ -529,9 +507,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 4   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** Laurea specialistica; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** via Giulio e Corrado Venini, 14/c, 20127 Milano MI, Italia   
-**CV:** Ferreri_CV   
+**CV:** https://drive.google.com/file/d/1SR8epefcyxollEx0DTP3RyPulmfNdc9M/view?usp=drive_link   
 **Pitch:** Ferreri_PITCH   
 
 ### Candidato: Veronica Lacchini   
@@ -540,9 +518,9 @@ lang: it
 **Ruolo:** Studentessa tirocinante - Tirocinio curricolare - Laurea Magistrale   
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Project Manager   
-**Titolo di studio:** LAUREA SPECIALISTICA - Nuovo ordinamento; Laura specialistica; LAUREA DI PRIMO LIVELLO - Nuovo ordinamento   
+**Titolo di studio:**    
 **Domicilio:** Vicolo Pontida, 5, 20021 Bollate MI, Italia   
-**CV:** Lacchini_CV   
+**CV:** https://drive.google.com/file/d/1UHOpaSjV7V6SRs2O9pv1ybYmeWUm-RlH/view?usp=drive_link   
 **Pitch:** Lacchini_PITCH   
 
 ### Candidato: Alessia Algieri   
@@ -551,9 +529,9 @@ lang: it
 **Ruolo:** Hostess eventi corporate   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Viale Rodi, 84, 20126 Milano MI, Italia   
-**CV:** Algieri_CV   
+**CV:** https://drive.google.com/file/d/1Je-XoHDrIjBPDA8oamXf4NBHHTu86zlV/view?usp=drive_link   
 **Pitch:** Algieri_PITCH   
 
 ### Candidato: Alessia Saggioro   
@@ -562,9 +540,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20147 Milano MI, Italia   
-**CV:** Saggioro_CV   
+**CV:** https://drive.google.com/file/d/1NtlfmmhWp_1aTGNo4pVYj6sDte_IxTdP/view?usp=drive_link   
 **Pitch:** Saggioro_PITCH   
 
 ### Candidato: Alice Marzia Garbari   
@@ -573,9 +551,9 @@ lang: it
 **Ruolo:** Event Manager e Public Relations   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Valvassori Peroni, 47, 20133 Milano MI, Italia   
-**CV:** Garbari_CV   
+**CV:** https://drive.google.com/file/d/1wOziiUB2RcTBZbjqA6Dp-JDOvqKI7Zwt/view?usp=drive_link   
 **Pitch:** Garbari_PITCH   
 
 ### Candidato: Anna Voronina   
@@ -584,9 +562,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** Via Claudio Debussy, 9, 20147 Milano MI, Italia   
-**CV:** Voronina_CV   
+**CV:** https://drive.google.com/file/d/1Q3Rp47i5QSfpqIaRnF4DMAXBgc2cbAAk/view?usp=drive_link   
 **Pitch:** Voronina_PITCH   
 
 ### Candidato: Arianna Elena Giuliani   
@@ -595,9 +573,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea 3 anni; Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20843 Verano Brianza MB, Italia   
-**CV:** Giuliani_CV   
+**CV:** https://drive.google.com/file/d/10skyuGA3_M6-TmhU7SwOH-LMngMjri3E/view?usp=drive_link   
 **Pitch:** Giuliani_PITCH   
 
 ### Candidato: Arianna Savore   
@@ -606,9 +584,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Bergamo, 51, 25015 Desenzano del Garda BS, Italia   
-**CV:** Savore_CV   
+**CV:** https://drive.google.com/file/d/1RaIccc64yRX4ykNlbgqedz3O_vcGNS30/view?usp=drive_link   
 **Pitch:** Savore_PITCH   
 
 ### Candidato: Barbara Grisa   
@@ -617,9 +595,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 24121 Bergamo BG, Italia   
-**CV:** Grisa_CV   
+**CV:** https://drive.google.com/file/d/1pHSDijpt3gMQgWAGYjv35w2snYDCG2Wn/view?usp=drive_link   
 **Pitch:** Grisa_PITCH   
 
 ### Candidato: Elisa Calo'   
@@ -628,9 +606,9 @@ lang: it
 **Ruolo:** Marketing Specialist   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20146 Milano MI, Italia   
-**CV:** Calo'_CV   
+**CV:** https://drive.google.com/file/d/1TrNvP8WoCm1goQ77a8rlPautEG0776iV/view?usp=drive_link   
 **Pitch:** Calo'_PITCH   
 
 ### Candidato: Elisa Piantanida   
@@ -639,9 +617,9 @@ lang: it
 **Ruolo:** Cassiera   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Milano, 35, 21017 Samarate VA, Italia   
-**CV:** Piantanida_CV   
+**CV:** https://drive.google.com/file/d/1hWfo2XAtSo_yHTTM3EJ-iN0udmoZfaKJ/view?usp=drive_link   
 **Pitch:** Piantanida_PITCH   
 
 ### Candidato: Federico Gislon   
@@ -650,9 +628,9 @@ lang: it
 **Ruolo:** International Guidance and Recruitment Intern   
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** 20851 Lissone MB, Italia   
-**CV:** Gislon_CV   
+**CV:** https://drive.google.com/file/d/13CLdBzCZDILTZJmA_wpUhNhexp5AQv3X/view?usp=drive_link   
 **Pitch:** Gislon_PITCH   
 
 ### Candidato: Francesca Vasciaveo   
@@ -661,9 +639,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laureando/a 3 anni; Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20126 Milano MI, Italia   
-**CV:** Vasciaveo_CV   
+**CV:** https://drive.google.com/file/d/1tR63mPiFAYaHXcxd1bPFc2UIjEjckVTr/view?usp=drive_link   
 **Pitch:** Vasciaveo_PITCH   
 
 ### Candidato: Gaia Scuratti   
@@ -672,9 +650,9 @@ lang: it
 **Ruolo:** Social Media & Content Manager   
 **Anni di esperienza:** 4   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Guglielmo Oberdan, 1, 26025 Pandino CR, Italia   
-**CV:** Scuratti_CV   
+**CV:** https://drive.google.com/file/d/1ilmQBh3FppfxEtcOR_zNmubaaVirkvBL/view?usp=drive_link   
 **Pitch:** Scuratti_PITCH   
 
 ### Candidato: Giacomo Cavaliere   
@@ -683,9 +661,9 @@ lang: it
 **Ruolo:** Seo Copywriter - Content Creation   
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Luigi Rho, 61, 20821 Meda MB, Italia   
-**CV:** Cavaliere_CV   
+**CV:** https://drive.google.com/file/d/1bRxfHMpZfMMuX1wHY2-mB7wbjXShBQUn/view?usp=drive_link   
 **Pitch:** Cavaliere_PITCH   
 
 ### Candidato: Giacomo Palla   
@@ -694,9 +672,9 @@ lang: it
 **Ruolo:** Organizzazione eventi e PR   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Viale Tunisia, 23, 20124 Milano MI, Italia   
-**CV:** Palla_CV   
+**CV:** https://drive.google.com/file/d/1EovoAHocTS8SJ2ebpgi2THbUx_IezzTp/view?usp=sharing   
 **Pitch:** Palla_PITCH   
 
 ### Candidato: Gloria Lucchi   
@@ -705,9 +683,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20137 Milano MI, Italia   
-**CV:** Lucchi_CV   
+**CV:** https://drive.google.com/file/d/1N7RZ2tJqrMs8GcsdseVxNLe8yz8gDRTN/view?usp=drive_link   
 **Pitch:** Lucchi_PITCH   
 
 ### Candidato: Luca Pacchiarini   
@@ -716,9 +694,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Mazzuccotelli, 4, 26900 Lodi LO, Italia   
-**CV:** Pacchiarini_CV   
+**CV:** https://drive.google.com/file/d/1VaSZca59sbmn28HXDrh5sjRr8x_Z_6Vq/view?usp=drive_link   
 **Pitch:** Pacchiarini_PITCH   
 
 ### Candidato: Marta Monti   
@@ -727,9 +705,9 @@ lang: it
 **Ruolo:** Addetto al booking viaggi   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Battisti , 22, 22070 Binago CO, Italia   
-**CV:** Monti_CV   
+**CV:** https://drive.google.com/file/d/1nHanUZ0RRH2qlqgVknQbsC0Bpgk_oJMc/view?usp=drive_link   
 **Pitch:** Monti_PITCH   
 
 ### Candidato: Michela Gaddi   
@@ -738,9 +716,9 @@ lang: it
 **Ruolo:** Policy and compliance assistant   
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea specialistica; Master di primo livello; Laurea 3 anni   
+**Titolo di studio:**    
 **Domicilio:** Via Fornace, 13, 23841 Annone di Brianza LC, Italia   
-**CV:** Gaddi_CV   
+**CV:** https://drive.google.com/file/d/14JBwZYDOiFxoxYpwp2e9_cyFAEv5t0mK/view?usp=drive_link   
 **Pitch:** Gaddi_PITCH   
 
 ### Candidato: Michela Iolanda Bianchi   
@@ -749,9 +727,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20049 Settala MI, Italia   
-**CV:** Bianchi_CV   
+**CV:** https://drive.google.com/file/d/1-PnU3EkU0ZRFIRJPz8dO1awUwtuOwGVa/view?usp=drive_link   
 **Pitch:** Bianchi_PITCH   
 
 ### Candidato: Silvia Soler   
@@ -760,9 +738,9 @@ lang: it
 **Ruolo:** Project Manager Junior   
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20152 Milano MI, Italia   
-**CV:** Soler_CV   
+**CV:** https://drive.google.com/file/d/1JeJL7e8nad3r3QEIA1T845VQ8wRwu8qN/view?usp=drive_link   
 **Pitch:** Soler_PITCH   
 
 ### Candidato: Valentina C remonesi   
@@ -771,9 +749,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Event Manager   
-**Titolo di studio:** Laurea 3 anni; Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 26841 Zorlesco LO, Italia   
-**CV:** C remonesi_CV   
+**CV:** https://drive.google.com/file/d/1rQmM5QmFl_5kCb_sbFIT1kEeAm1AYyRK/view?usp=drive_link   
 **Pitch:** C remonesi_PITCH   
 
 ### Candidato: Alessia Foschiani   
@@ -782,9 +760,9 @@ lang: it
 **Ruolo:** Marketing manager   
 **Anni di esperienza:** 6   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Diploma; Diploma   
+**Titolo di studio:**    
 **Domicilio:** Viale fulvio testi, 68, 20126 Milano MI, Italia   
-**CV:** Foschiani_CV   
+**CV:** https://drive.google.com/file/d/19hTu8iAL1-qQAIj5_JBnIBAezgYhU303/view?usp=drive_link   
 **Pitch:** Foschiani_PITCH   
 
 ### Candidato: Deniz Maral   
@@ -793,9 +771,9 @@ lang: it
 **Ruolo:** Marketing and PR   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** Via Frigia 19, 20126 Milan MI, Italy   
-**CV:** Maral_CV   
+**CV:** https://drive.google.com/file/d/16tiDcmf_c-ZhDhGw2jHI4zHw6RcbYFNb/view?usp=drive_link   
 **Pitch:** Maral_PITCH   
 
 ### Candidato: Harsh Chandrakant Chaurasia   
@@ -804,9 +782,9 @@ lang: it
 **Ruolo:** Hospitality, Operations   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** MASTER UNIVERSITARIO DI PRIMO LIVELLO; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20146 Milan MI, Italy   
-**CV:** Chaurasia_CV   
+**CV:** https://drive.google.com/file/d/1zKY_HSVWI54q5GwubO6yYS1flZEGzgnP/view?usp=drive_link   
 **Pitch:** Chaurasia_PITCH   
 
 ### Candidato: Henry Ngilorit   
@@ -815,9 +793,9 @@ lang: it
 **Ruolo:** Project Development & Management Consultant / Bid manager   
 **Anni di esperienza:** 11   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Master; Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** Via San Rocco, 11, 20135 Milano MI, Italia   
-**CV:** Ngilorit_CV   
+**CV:** https://drive.google.com/file/d/1C6eQ2mo7kej_BKmVekHonfI6_yeYEqSa/view?usp=drive_link   
 **Pitch:** Ngilorit_PITCH   
 
 ### Candidato: Ibtissame Baitit   
@@ -826,9 +804,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laurea specialistica; Laura specialistica; Laurea 3 anni   
+**Titolo di studio:**    
 **Domicilio:** Piazza IV novembre, 14, 20077 Melegnano MI, Italia   
-**CV:** Baitit_CV   
+**CV:** https://drive.google.com/file/d/1Ev4pHb1ZrWTsuWSEPcY3Zn5-rwaBGqEu/view?usp=drive_link   
 **Pitch:** Baitit_PITCH   
 
 ### Candidato: Ivan Tatarkin   
@@ -837,9 +815,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20146 Milano MI, Italia   
-**CV:** Tatarkin_CV   
+**CV:** https://drive.google.com/file/d/1Cn8zZ3DprXKKMBomGhL7sjhB_g9ElIw4/view?usp=drive_link   
 **Pitch:** Tatarkin_PITCH   
 
 ### Candidato: Joyce Tang   
@@ -848,9 +826,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 2   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20133 Milan MI, Italy   
-**CV:** Tang_CV   
+**CV:** https://drive.google.com/file/d/15N6sRhYduaRh3EY3oSFkix5b7e-k4Vbs/view?usp=drive_link   
 **Pitch:** Tang_PITCH   
 
 ### Candidato: Kenedy John Isaac Abui   
@@ -859,9 +837,9 @@ lang: it
 **Ruolo:** Sports   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** MASTER UNIVERSITARIO DI PRIMO LIVELLO; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Pitteri, 56, 20134 Milan MI, Italy   
-**CV:** Abui_CV   
+**CV:** https://drive.google.com/file/d/1GreTgmfDyaNQQi1DRW5Uc-8R0mhE04XV/view?usp=drive_link   
 **Pitch:** Abui_PITCH   
 
 ### Candidato: Laura Panzarin Nerasti   
@@ -870,9 +848,9 @@ lang: it
 **Ruolo:** Analista Customer Success & Project   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Monsignor Guido Previtali, 11, 24040 Suisio BG, Italia   
-**CV:** Panzarin Nerasti_CV   
+**CV:** https://drive.google.com/file/d/1RPGSHA_4BMiETUszBVRt2Znb_1iHSU-U/view?usp=drive_link   
 **Pitch:** Panzarin Nerasti_PITCH   
 
 ### Candidato: Lucimara Vidal dos santos   
@@ -881,9 +859,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 10   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** 20822 Seveso MB, Italy   
-**CV:** Vidal dos santos_CV   
+**CV:** https://drive.google.com/file/d/1do40_RvZsrr62XWVJ2XS3Y9VN71e2uba/view?usp=drive_link   
 **Pitch:** Vidal dos santos_PITCH   
 
 ### Candidato: Mija Parezanin   
@@ -892,9 +870,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Master di secondo livello   
+**Titolo di studio:**    
 **Domicilio:** 20122 Milano MI, Italia   
-**CV:** Parezanin_CV   
+**CV:** https://drive.google.com/file/d/1SIpAzCD5DAvZXUvkgQTLb-BvwPl-ULSc/view?usp=drive_link   
 **Pitch:** Parezanin_PITCH   
 
 ### Candidato: Niamh Zanda   
@@ -903,9 +881,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 0   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laurea triennale   
+**Titolo di studio:**    
 **Domicilio:** 20133 Milan MI, Italy   
-**CV:** Zanda_CV   
+**CV:** https://drive.google.com/file/d/1gGd9tRzLDkJ5HiCMeu3wsRjOjkbHMuO5/view?usp=drive_link   
 **Pitch:** Zanda_PITCH   
 
 ### Candidato: Ruomeng MA   
@@ -914,9 +892,9 @@ lang: it
 **Ruolo:** advertisement   
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20099 Sesto San Giovanni MI, Italy   
-**CV:** MA_CV   
+**CV:** https://drive.google.com/file/d/1mhQ1_i3X0E1KTLA2cV17rWXIS_aVl7m0/view?usp=drive_link   
 **Pitch:** MA_PITCH   
 
 ### Candidato: Ruxandra È˜unel   
@@ -925,9 +903,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** Via Bonaventura Zumbini, 39, 20143 Milan MI, Italy   
-**CV:** È˜unel_CV   
+**CV:** https://drive.google.com/file/d/1HT_0xGpmLj5ECgswVYJp5I1LeKyvRGKG/view?usp=drive_link   
 **Pitch:** È˜unel_PITCH   
 
 ### Candidato: Sofia Soria   
@@ -936,9 +914,9 @@ lang: it
 **Ruolo:** aspirante imprenditrice   
 **Anni di esperienza:** 1   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Diploma   
+**Titolo di studio:**    
 **Domicilio:** Via Giovanni da Procida, 2, 20149 Milano MI, Italia   
-**CV:** Soria_CV   
+**CV:** https://drive.google.com/file/d/1V69-Cr8s5Z9BY41FXL2aSYgvV49oFw9W/view?usp=drive_link   
 **Pitch:** Soria_PITCH   
 
 ### Candidato: Ufuosuo Da-Clarke   
@@ -947,9 +925,9 @@ lang: it
 **Ruolo:**    
 **Anni di esperienza:** 3   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Laurea specialistica; Laura specialistica   
+**Titolo di studio:**    
 **Domicilio:** 20098 Borgo Lombardo MI, Italy   
-**CV:** Da-Clarke_CV   
+**CV:** https://drive.google.com/file/d/1t5oaQVi4hGCHCkjXFwVh1rWBJRtPD4r9/view?usp=drive_link   
 **Pitch:** Da-Clarke_PITCH   
 
 ### Candidato: julian hurtado   
@@ -958,7 +936,7 @@ lang: it
 **Ruolo:** Senior Product Designer   
 **Anni di esperienza:** 8   
 **Corso Formaper:**  Project Manager internazionale   
-**Titolo di studio:** Master; Master di primo livello   
+**Titolo di studio:**    
 **Domicilio:** Via Giovanni Montemartini, 4, 20139 Milano MI, Italia   
-**CV:** hurtado_CV   
+**CV:** https://drive.google.com/file/d/1bp3yGhXJlxdUzB1-CUXaL9qSo_O2SsXD/view?usp=drive_link   
 **Pitch:** hurtado_PITCH   
