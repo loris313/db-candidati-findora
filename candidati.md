@@ -15,7 +15,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20060 Gessate MI, Italia   
 **CV:** https://drive.google.com/file/d/1X-dfXnNg06iiqbv4e9Xt3_AZ7La4beKn/view?usp=sharing   
-**Pitch:** Garcia Cristalli_PITCH   
+**Video presentazione:** Garcia Cristalli_PITCH   
 
 ### Candidato: Andrea Testa   
 **Email:** testawork@gmail.com  
@@ -26,7 +26,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Enrico Cosenz, 54, 20158 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1LMNOeEajg9mlOwnlRPCk3dBFhtDl5DEh/view?usp=drive_link   
-**Pitch:** Testa_PITCH   
+**Video presentazione:** Testa_PITCH   
 
 ### Candidato: Carlotta Tomaselli   
 **Email:** carlottatomaselli1@gmail.com  
@@ -37,7 +37,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20162 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1V8L1J0d1ZIVRDHdwB8in7nh85moxFPIQ/view?usp=drive_link   
-**Pitch:** Tomaselli_PITCH   
+**Video presentazione:** Tomaselli_PITCH   
 
 ### Candidato: Chico Joel Phoba   
 **Email:** chicojoelphoba@gmail.com  
@@ -48,7 +48,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20125 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1a6iqUITxadCukSEIRP8mtg4C1SujueT0/view?usp=sharing   
-**Pitch:** Phoba_PITCH   
+**Video presentazione:** Phoba_PITCH   
 
 ### Candidato: Cinzia Minghetti   
 **Email:** mingh@tiscali.it  
@@ -59,7 +59,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20099 Sesto San Giovanni MI, Italia   
 **CV:** https://drive.google.com/file/d/1tgtWC3l20uwIvqm4UcAnZhFVCkBLMyTq/view?usp=sharing   
-**Pitch:** Minghetti_PITCH   
+**Video presentazione:** Minghetti_PITCH   
 
 ### Candidato: Elisa Previtali   
 **Email:** previtali.elisa@gmail.com  
@@ -70,7 +70,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20155 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1ukr8ruklMGNftyu8FtQ8JZVUWzGlMbhd/view?usp=drive_link   
-**Pitch:** Previtali_PITCH   
+**Video presentazione:** Previtali_PITCH   
 
 ### Candidato: Emanuele Valecce   
 **Email:** emanuele.valecce@libero.it  
@@ -81,7 +81,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Viale Ungheria, 13, 20138 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/116i-IGwWC8iYpWUsphZ8xEzpT8INuOva/view?usp=sharing   
-**Pitch:** Valecce_PITCH   
+**Video presentazione:** Valecce_PITCH   
 
 ### Candidato: Francesco Pippa   
 **Email:** fpippa85@gmail.com  
@@ -92,7 +92,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Giacomo Leopardi, 5b, 20045 Barbaiana MI, Italia   
 **CV:** https://drive.google.com/file/d/1t-WAkinhUjTc3OOfHDGwKrhKsbyGDf2Z/view?usp=sharing   
-**Pitch:** Pippa_PITCH   
+**Video presentazione:** Pippa_PITCH   
 
 ### Candidato: Gilbert Jose Rumbos Felicioni   
 **Email:** gilbertrumbosfelicioni@gmail.com  
@@ -103,7 +103,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20147 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1UoCxapDL0TirlpyGT6lNkySwIfhAVXsj/view?usp=drive_link   
-**Pitch:** Rumbos Felicioni_PITCH   
+**Video presentazione:** Rumbos Felicioni_PITCH   
 
 ### Candidato: Giorgio Maria Radaelli   
 **Email:** liberategio@hotmail.it  
@@ -114,7 +114,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20852 Villasanta MB, Italia   
 **CV:** https://drive.google.com/file/d/1b3LPCVuS8geyMno8G8HULc3t3XpLzmSV/view?usp=sharing   
-**Pitch:** Radaelli_PITCH   
+**Video presentazione:** Radaelli_PITCH   
 
 ### Candidato: Giulio Shusei Colombo Taccani   
 **Email:** giulioshusei@gmail.com  
@@ -125,7 +125,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Luigi Sacco, 5, 20146 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1TYie0unCq8HGBfo1NSqtmO3BgyMJeV84/view?usp=drive_link   
-**Pitch:** Colombo Taccani_PITCH   
+**Video presentazione:** Colombo Taccani_PITCH   
 
 ### Candidato: Guido Marcello Niessner   
 **Email:** Guido.niessner@gmail.com  
@@ -136,7 +136,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Gallarate , 30, 20151 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1GKEDfWngyUD-sz_rCW16vZckm-bTHFQN/view?usp=sharing   
-**Pitch:** Niessner_PITCH   
+**Video presentazione:** Niessner_PITCH   
 
 ### Candidato: Leandro Modini   
 **Email:** Leandro_Modini_@outlook.it  
@@ -147,7 +147,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20853 Biassono MB, Italia   
 **CV:** https://drive.google.com/file/d/1_WbI7Ohq8n-gXvaa3MnjKdDkqxh3cBU-/view?usp=drive_link   
-**Pitch:** Modini_PITCH   
+**Video presentazione:** Modini_PITCH   
 
 ### Candidato: Leonardo Lo Giudice   
 **Email:** leonardologiudice05@gmail.com  
@@ -158,7 +158,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Gaetano Strambio, 23, 20133 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1H4GuazxZ1OC70E-kuPQtQSBPrezcBHpZ/view?usp=drive_link   
-**Pitch:** Lo Giudice_PITCH   
+**Video presentazione:** Lo Giudice_PITCH   
 
 ### Candidato: Leopoldo Maldi   
 **Email:** leopoldomaldi5@gmail.com  
@@ -169,7 +169,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Fauchà¨, 35, 20154 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1-7ASOuv8KNQIkI90JmszLQj6IcQaQsz1/view?usp=sharing   
-**Pitch:** Maldi_PITCH   
+**Video presentazione:** Maldi_PITCH   
 
 ### Candidato: Lorenzo Pierico   
 **Email:** lorenzo.pierico@gmail.com  
@@ -180,7 +180,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** via Pomponazzi, 22, 20141 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1UpyJvx9fF1_FJLdOxv5SQkJev4ZhjKU_/view?usp=drive_link   
-**Pitch:** Pierico_PITCH   
+**Video presentazione:** Pierico_PITCH   
 
 ### Candidato: Luca Mazzeo   
 **Email:** lucamazzeo423@gmail.com  
@@ -191,7 +191,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20095 Cusano Milanino MI, Italia   
 **CV:** https://drive.google.com/file/d/1fWto6sYwGuapgpJ-zj1L4-iMYcgY8jzM/view?usp=sharing   
-**Pitch:** Mazzeo_PITCH   
+**Video presentazione:** Mazzeo_PITCH   
 
 ### Candidato: MARCO CATANZARO   
 **Email:** mczwork@outlook.it  
@@ -202,7 +202,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 27038 Robbio PV, Italia   
 **CV:** https://drive.google.com/file/d/1ig2mJvAlkEwC0V2bJfskKnL8P4SXW8iv/view?usp=drive_link   
-**Pitch:** CATANZARO_PITCH   
+**Video presentazione:** CATANZARO_PITCH   
 
 ### Candidato: Marco Fabbretti   
 **Email:** marco79.fabbretti@gmail.com  
@@ -213,7 +213,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Bazzana inferiore, 4, 20057 Assago MI, Italia   
 **CV:** https://drive.google.com/file/d/1HErtQcsOJTODUXQPDCcU0EmT1quI6AqK/view?usp=drive_link   
-**Pitch:** Fabbretti_PITCH   
+**Video presentazione:** Fabbretti_PITCH   
 
 ### Candidato: Marco Porceddu   
 **Email:** markuskaller@hotmail.com  
@@ -224,7 +224,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** via luigi calori, 25/B, 20085 Locate di Triulzi MI, Italia   
 **CV:** https://drive.google.com/file/d/1EM4W8Hjsp4AkSgZ2BS24C93KRg-dEnUj/view?usp=drive_link   
-**Pitch:** Porceddu_PITCH   
+**Video presentazione:** Porceddu_PITCH   
 
 ### Candidato: Mattia Ferro   
 **Email:** mattia.ferro160693@gmail.com  
@@ -235,7 +235,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via roma , 2, 21040 Sumirago, Lombardia   
 **CV:** https://drive.google.com/file/d/1U72JRLM57a_IWxJFoFhRNtJiZ0x5C14m/view?usp=sharing   
-**Pitch:** Ferro_PITCH   
+**Video presentazione:** Ferro_PITCH   
 
 ### Candidato: Michele Rucco   
 **Email:** michele.rucco@outlook.it  
@@ -246,7 +246,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20159 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1E-WSLSVvU6IxTjuhD6dR2U6PXqsse-Tz/view?usp=drive_link   
-**Pitch:** Rucco_PITCH   
+**Video presentazione:** Rucco_PITCH   
 
 ### Candidato: Nicola Carratta   
 **Email:** n.carratta@gmail.com  
@@ -257,7 +257,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Valle Antrona, 1, 20152 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1uJTmUDOFfhwys9Z_Xb3n690-n8EoNPff/view?usp=sharing   
-**Pitch:** Carratta_PITCH   
+**Video presentazione:** Carratta_PITCH   
 
 ### Candidato: NicolÃ² Gobbi   
 **Email:** nicolo.gobbi05@gmail.com  
@@ -268,7 +268,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Giorgio Washington, 109, 20146 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1TMOUJMUtzVVg-RlcBSEsdiU8mOmu-3FU/view?usp=sharing   
-**Pitch:** Gobbi_PITCH   
+**Video presentazione:** Gobbi_PITCH   
 
 ### Candidato: Savannah Anastasia Iona Ney   
 **Email:** neysavannah@gmail.com  
@@ -279,7 +279,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20141 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/16V73LEp82Mm4yFnI0Cl0Te8QjcI9bPuT/view?usp=sharing   
-**Pitch:** Ney_PITCH   
+**Video presentazione:** Ney_PITCH   
 
 ### Candidato: Sofia Cavraro   
 **Email:** sofia.cavrso@gmail.com  
@@ -290,7 +290,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 21042 Caronno Pertusella VA, Italia   
 **CV:** https://drive.google.com/file/d/1fuax67qPtirhFSgkjoM3FxegtWCFrsUm/view?usp=drive_link   
-**Pitch:** Cavraro_PITCH   
+**Video presentazione:** Cavraro_PITCH   
 
 ### Candidato: Valeriano Pietrella   
 **Email:** valeriano.pietrella99@gmail.com  
@@ -301,7 +301,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Piemonte, 3, 20095 Cusano Milanino MI, Italia   
 **CV:** https://drive.google.com/file/d/1s1JTlsf4jeUfoUOy9_Lf7K3YXOfrrCn7/view?usp=sharing   
-**Pitch:** Pietrella_PITCH   
+**Video presentazione:** Pietrella_PITCH   
 
 ### Candidato: XiaangYu Zhang   
 **Email:** minefriends.ma@gmail.com  
@@ -312,7 +312,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20161 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1v8qCsM3nCLv58Y7ClJqoLBmG1kf9HoG9/view?usp=drive_link   
-**Pitch:** Zhang_PITCH   
+**Video presentazione:** Zhang_PITCH   
 
 ### Candidato: emanuele russo   
 **Email:** manubassozz@gmail.com  
@@ -323,7 +323,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Giuseppe parini , 15 A, 20845 Sovico MB, Italia   
 **CV:** https://drive.google.com/file/d/1cY7TaTVNGmBHbhkKcy8ipL56GZl3a3y9/view?usp=drive_link   
-**Pitch:** russo_PITCH   
+**Video presentazione:** russo_PITCH   
 
 ### Candidato: marghita dalo   
 **Email:** marghitadalo@gmail.com  
@@ -334,7 +334,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20141 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1kff1dHJ4XYJPNIZPWQqVTuCL25GuJOJ7/view?usp=sharing   
-**Pitch:** dalo_PITCH   
+**Video presentazione:** dalo_PITCH   
 
 ### Candidato: tommaso manzoni   
 **Email:** tommasomanzoni01@gmail.com  
@@ -345,7 +345,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** via alfredo cappellini, 10, 20124 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Brb3FKaplhj3cOW9AvvBoUl-rH0HHJXB/view?usp=sharing   
-**Pitch:** manzoni_PITCH   
+**Video presentazione:** manzoni_PITCH   
 
 ### Candidato: Angela Allegretto   
 **Email:** angela.allegretto@yahoo.com  
@@ -356,7 +356,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20155 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Yv68rK9XpyDKkPHiwZ_5ebwQdf29V8VN/view?usp=drive_link   
-**Pitch:** Allegretto_PITCH   
+**Video presentazione:** Allegretto_PITCH   
 
 ### Candidato: Aurora Albertini   
 **Email:** auroraalbertini96@gmail.com  
@@ -367,7 +367,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20138 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1HhGqBBZ4XhCFFOoNfwMFOwdIXBwKefgC/view?usp=drive_link   
-**Pitch:** Albertini_PITCH   
+**Video presentazione:** Albertini_PITCH   
 
 ### Candidato: Barbara Laura Montrasio   
 **Email:** barbara.laura.montrasio@gmail.com  
@@ -378,7 +378,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20128 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1ryRJicFM3pPyvB03DMS4tYHSulm-rmgB/view?usp=drive_link   
-**Pitch:** Montrasio_PITCH   
+**Video presentazione:** Montrasio_PITCH   
 
 ### Candidato: Camilla Danesi   
 **Email:** camilla.danesi03@gmail.com  
@@ -389,7 +389,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Melozzo da forlà¬, 12, 20076 Mediglia MI, Italia   
 **CV:** https://drive.google.com/file/d/1_F_Vw08J6IVORrL1Pw8eCA195e_60Yhj/view?usp=drive_link   
-**Pitch:** Danesi_PITCH   
+**Video presentazione:** Danesi_PITCH   
 
 ### Candidato: Clizia Di Blasio   
 **Email:** cliziadb@gmail.com  
@@ -400,7 +400,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 21013 Gallarate VA, Italia   
 **CV:** https://drive.google.com/file/d/1WrIjJjDMevtmBGjkufUDzuCCz1YUAV4t/view?usp=drive_link   
-**Pitch:** Di Blasio_PITCH   
+**Video presentazione:** Di Blasio_PITCH   
 
 ### Candidato: Cristina Evola   
 **Email:** evolacristina@gmail.com  
@@ -411,7 +411,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20162 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1LUS1IsmEffPTkiAUdto5igcabah-1QN1/view?usp=drive_link   
-**Pitch:** Evola_PITCH   
+**Video presentazione:** Evola_PITCH   
 
 ### Candidato: Emma Pisciella   
 **Email:** emma.pisciella05@gmail.com  
@@ -422,7 +422,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20133 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1rjhM25A5G8tu8a_s6Oawun3pVFO_sbT8/view?usp=drive_link   
-**Pitch:** Pisciella_PITCH   
+**Video presentazione:** Pisciella_PITCH   
 
 ### Candidato: Fabrizio Guerra Chavez   
 **Email:** fabrizio.guerra.italy@gmail.com  
@@ -433,7 +433,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Vincenzo da Seregno, 54, 20161 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/10ZYU_CeUILUaeeTLTzWvDsrTlLOA4i8Y/view?usp=drive_link   
-**Pitch:** Guerra Chavez_PITCH   
+**Video presentazione:** Guerra Chavez_PITCH   
 
 ### Candidato: Gaia Galimberti   
 **Email:** gaiagali9@gmail.com  
@@ -444,7 +444,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** via bernina, 41, 20832 Desio MB, Italia   
 **CV:** https://drive.google.com/file/d/1faSyERxDBGjrxyVa2TyFNFWOVzhJvFUx/view?usp=drive_link   
-**Pitch:** Galimberti_PITCH   
+**Video presentazione:** Galimberti_PITCH   
 
 ### Candidato: Ginevra Piccinin   
 **Email:** ginevra.piccinin78@gmail.com  
@@ -455,7 +455,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20139 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/18xG7cWwbv17dCcELsFwcfZKMrPGtdLsF/view?usp=drive_link   
-**Pitch:** Piccinin_PITCH   
+**Video presentazione:** Piccinin_PITCH   
 
 ### Candidato: Irene Amato   
 **Email:** amatoirene27@gmail.com  
@@ -466,7 +466,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 26900 Lodi LO, Italia   
 **CV:** https://drive.google.com/file/d/1xO43f1y8VI8H_ie-xXF0uNbDJmegiwV8/view?usp=drive_link   
-**Pitch:** Amato_PITCH   
+**Video presentazione:** Amato_PITCH   
 
 ### Candidato: Marco Losi   
 **Email:** marco.losi5@gmail.com  
@@ -477,7 +477,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Carducci, 191/8, 21027 Ispra VA, Italia   
 **CV:** https://drive.google.com/file/d/1Yi2P5jKnjIxHRkiviZhfv5G0lnoPPSKo/view?usp=drive_link   
-**Pitch:** Losi_PITCH   
+**Video presentazione:** Losi_PITCH   
 
 ### Candidato: Sara Di Vincenzo   
 **Email:** divincenzosara@outlook.it  
@@ -488,7 +488,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 27100 Pavia PV, Italia   
 **CV:** https://drive.google.com/file/d/1ng64eLd1dgXfAVbrrgUMTBQE5UjFL5Ck/view?usp=drive_link   
-**Pitch:** Di Vincenzo_PITCH   
+**Video presentazione:** Di Vincenzo_PITCH   
 
 ### Candidato: Sonia POLITO   
 **Email:** polito.sonia@hotmail.it  
@@ -499,7 +499,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20149 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/15CPpzrh5eVrgdGKygmQWLnlKd-6H9nGY/view?usp=drive_link   
-**Pitch:** POLITO_PITCH   
+**Video presentazione:** POLITO_PITCH   
 
 ### Candidato: Valentina Ferreri   
 **Email:** valentinaferreri96@gmail.com  
@@ -510,7 +510,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** via Giulio e Corrado Venini, 14/c, 20127 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1SR8epefcyxollEx0DTP3RyPulmfNdc9M/view?usp=drive_link   
-**Pitch:** Ferreri_PITCH   
+**Video presentazione:** Ferreri_PITCH   
 
 ### Candidato: Veronica Lacchini   
 **Email:** lacchini.veronica@gmail.com  
@@ -521,7 +521,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Vicolo Pontida, 5, 20021 Bollate MI, Italia   
 **CV:** https://drive.google.com/file/d/1UHOpaSjV7V6SRs2O9pv1ybYmeWUm-RlH/view?usp=drive_link   
-**Pitch:** Lacchini_PITCH   
+**Video presentazione:** Lacchini_PITCH   
 
 ### Candidato: Alessia Algieri   
 **Email:** alealgieri01@gmail.com  
@@ -532,7 +532,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Viale Rodi, 84, 20126 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Je-XoHDrIjBPDA8oamXf4NBHHTu86zlV/view?usp=drive_link   
-**Pitch:** Algieri_PITCH   
+**Video presentazione:** Algieri_PITCH   
 
 ### Candidato: Alessia Saggioro   
 **Email:** alessia.saggioro@gmail.com  
@@ -543,7 +543,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20147 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1NtlfmmhWp_1aTGNo4pVYj6sDte_IxTdP/view?usp=drive_link   
-**Pitch:** Saggioro_PITCH   
+**Video presentazione:** Saggioro_PITCH   
 
 ### Candidato: Alice Marzia Garbari   
 **Email:** alice.g.collab@gmail.com  
@@ -554,7 +554,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Valvassori Peroni, 47, 20133 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1wOziiUB2RcTBZbjqA6Dp-JDOvqKI7Zwt/view?usp=drive_link   
-**Pitch:** Garbari_PITCH   
+**Video presentazione:** Garbari_PITCH   
 
 ### Candidato: Anna Voronina   
 **Email:** annavoronina119@gmail.com  
@@ -565,7 +565,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Claudio Debussy, 9, 20147 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Q3Rp47i5QSfpqIaRnF4DMAXBgc2cbAAk/view?usp=drive_link   
-**Pitch:** Voronina_PITCH   
+**Video presentazione:** Voronina_PITCH   
 
 ### Candidato: Arianna Elena Giuliani   
 **Email:** joyflowerballerina@gmail.com  
@@ -576,7 +576,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20843 Verano Brianza MB, Italia   
 **CV:** https://drive.google.com/file/d/10skyuGA3_M6-TmhU7SwOH-LMngMjri3E/view?usp=drive_link   
-**Pitch:** Giuliani_PITCH   
+**Video presentazione:** Giuliani_PITCH   
 
 ### Candidato: Arianna Savore   
 **Email:** ariannasavore@hotmail.com  
@@ -587,7 +587,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Bergamo, 51, 25015 Desenzano del Garda BS, Italia   
 **CV:** https://drive.google.com/file/d/1RaIccc64yRX4ykNlbgqedz3O_vcGNS30/view?usp=drive_link   
-**Pitch:** Savore_PITCH   
+**Video presentazione:** Savore_PITCH   
 
 ### Candidato: Barbara Grisa   
 **Email:** barbara.grisa@uniuma.it  
@@ -598,7 +598,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 24121 Bergamo BG, Italia   
 **CV:** https://drive.google.com/file/d/1pHSDijpt3gMQgWAGYjv35w2snYDCG2Wn/view?usp=drive_link   
-**Pitch:** Grisa_PITCH   
+**Video presentazione:** Grisa_PITCH   
 
 ### Candidato: Elisa Calo'   
 **Email:** elisacalo01@gmail.com  
@@ -609,7 +609,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20146 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1TrNvP8WoCm1goQ77a8rlPautEG0776iV/view?usp=drive_link   
-**Pitch:** Calo'_PITCH   
+**Video presentazione:** Calo'_PITCH   
 
 ### Candidato: Elisa Piantanida   
 **Email:** elisa.piantanida02@gmail.com  
@@ -620,7 +620,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Milano, 35, 21017 Samarate VA, Italia   
 **CV:** https://drive.google.com/file/d/1hWfo2XAtSo_yHTTM3EJ-iN0udmoZfaKJ/view?usp=drive_link   
-**Pitch:** Piantanida_PITCH   
+**Video presentazione:** Piantanida_PITCH   
 
 ### Candidato: Federico Gislon   
 **Email:** federico.gislon@gmail.com  
@@ -631,7 +631,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20851 Lissone MB, Italia   
 **CV:** https://drive.google.com/file/d/13CLdBzCZDILTZJmA_wpUhNhexp5AQv3X/view?usp=drive_link   
-**Pitch:** Gislon_PITCH   
+**Video presentazione:** Gislon_PITCH   
 
 ### Candidato: Francesca Vasciaveo   
 **Email:** Francyvasciaveo@gmail.com  
@@ -642,7 +642,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20126 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1tR63mPiFAYaHXcxd1bPFc2UIjEjckVTr/view?usp=drive_link   
-**Pitch:** Vasciaveo_PITCH   
+**Video presentazione:** Vasciaveo_PITCH   
 
 ### Candidato: Gaia Scuratti   
 **Email:** gaia.scuratti@gmail.com  
@@ -653,7 +653,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Guglielmo Oberdan, 1, 26025 Pandino CR, Italia   
 **CV:** https://drive.google.com/file/d/1ilmQBh3FppfxEtcOR_zNmubaaVirkvBL/view?usp=drive_link   
-**Pitch:** Scuratti_PITCH   
+**Video presentazione:** Scuratti_PITCH   
 
 ### Candidato: Giacomo Cavaliere   
 **Email:** giack19@gmail.com  
@@ -664,7 +664,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Luigi Rho, 61, 20821 Meda MB, Italia   
 **CV:** https://drive.google.com/file/d/1bRxfHMpZfMMuX1wHY2-mB7wbjXShBQUn/view?usp=drive_link   
-**Pitch:** Cavaliere_PITCH   
+**Video presentazione:** Cavaliere_PITCH   
 
 ### Candidato: Giacomo Palla   
 **Email:** gpalla96@gmail.com  
@@ -675,7 +675,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Viale Tunisia, 23, 20124 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1EovoAHocTS8SJ2ebpgi2THbUx_IezzTp/view?usp=sharing   
-**Pitch:** Palla_PITCH   
+**Video presentazione:** Palla_PITCH   
 
 ### Candidato: Gloria Lucchi   
 **Email:** Gloria.lucchiii@gmail.com  
@@ -686,7 +686,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20137 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1N7RZ2tJqrMs8GcsdseVxNLe8yz8gDRTN/view?usp=drive_link   
-**Pitch:** Lucchi_PITCH   
+**Video presentazione:** Lucchi_PITCH   
 
 ### Candidato: Luca Pacchiarini   
 **Email:** lucapacchia3@gmail.com  
@@ -697,7 +697,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Mazzuccotelli, 4, 26900 Lodi LO, Italia   
 **CV:** https://drive.google.com/file/d/1VaSZca59sbmn28HXDrh5sjRr8x_Z_6Vq/view?usp=drive_link   
-**Pitch:** Pacchiarini_PITCH   
+**Video presentazione:** Pacchiarini_PITCH   
 
 ### Candidato: Marta Monti   
 **Email:** martamonti21@hotmail.com  
@@ -708,7 +708,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Battisti , 22, 22070 Binago CO, Italia   
 **CV:** https://drive.google.com/file/d/1nHanUZ0RRH2qlqgVknQbsC0Bpgk_oJMc/view?usp=drive_link   
-**Pitch:** Monti_PITCH   
+**Video presentazione:** Monti_PITCH   
 
 ### Candidato: Michela Gaddi   
 **Email:** michela.gaddi@gmail.com  
@@ -719,7 +719,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Fornace, 13, 23841 Annone di Brianza LC, Italia   
 **CV:** https://drive.google.com/file/d/14JBwZYDOiFxoxYpwp2e9_cyFAEv5t0mK/view?usp=drive_link   
-**Pitch:** Gaddi_PITCH   
+**Video presentazione:** Gaddi_PITCH   
 
 ### Candidato: Michela Iolanda Bianchi   
 **Email:** mb00miki@gmail.com  
@@ -730,7 +730,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20049 Settala MI, Italia   
 **CV:** https://drive.google.com/file/d/1-PnU3EkU0ZRFIRJPz8dO1awUwtuOwGVa/view?usp=drive_link   
-**Pitch:** Bianchi_PITCH   
+**Video presentazione:** Bianchi_PITCH   
 
 ### Candidato: Silvia Soler   
 **Email:** silvy.ginny@gmail.com  
@@ -741,7 +741,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20152 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1JeJL7e8nad3r3QEIA1T845VQ8wRwu8qN/view?usp=drive_link   
-**Pitch:** Soler_PITCH   
+**Video presentazione:** Soler_PITCH   
 
 ### Candidato: Valentina C remonesi   
 **Email:** vale.cremonesi03@gmail.com  
@@ -752,7 +752,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 26841 Zorlesco LO, Italia   
 **CV:** https://drive.google.com/file/d/1rQmM5QmFl_5kCb_sbFIT1kEeAm1AYyRK/view?usp=drive_link   
-**Pitch:** C remonesi_PITCH   
+**Video presentazione:** C remonesi_PITCH   
 
 ### Candidato: Alessia Foschiani   
 **Email:** Alessiafoschiani7@gmail.com  
@@ -763,7 +763,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Viale fulvio testi, 68, 20126 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/19hTu8iAL1-qQAIj5_JBnIBAezgYhU303/view?usp=drive_link   
-**Pitch:** Foschiani_PITCH   
+**Video presentazione:** Foschiani_PITCH   
 
 ### Candidato: Deniz Maral   
 **Email:** denizmaral.it@gmail.com  
@@ -774,7 +774,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Frigia 19, 20126 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/16tiDcmf_c-ZhDhGw2jHI4zHw6RcbYFNb/view?usp=drive_link   
-**Pitch:** Maral_PITCH   
+**Video presentazione:** Maral_PITCH   
 
 ### Candidato: Harsh Chandrakant Chaurasia   
 **Email:** harsh13chaurasia@gmail.com  
@@ -785,7 +785,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20146 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/1zKY_HSVWI54q5GwubO6yYS1flZEGzgnP/view?usp=drive_link   
-**Pitch:** Chaurasia_PITCH   
+**Video presentazione:** Chaurasia_PITCH   
 
 ### Candidato: Henry Ngilorit   
 **Email:** henry.ngilorit@gmail.com  
@@ -796,7 +796,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via San Rocco, 11, 20135 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1C6eQ2mo7kej_BKmVekHonfI6_yeYEqSa/view?usp=drive_link   
-**Pitch:** Ngilorit_PITCH   
+**Video presentazione:** Ngilorit_PITCH   
 
 ### Candidato: Ibtissame Baitit   
 **Email:** baitit.ibtissame@gmail.com  
@@ -807,7 +807,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Piazza IV novembre, 14, 20077 Melegnano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Ev4pHb1ZrWTsuWSEPcY3Zn5-rwaBGqEu/view?usp=drive_link   
-**Pitch:** Baitit_PITCH   
+**Video presentazione:** Baitit_PITCH   
 
 ### Candidato: Ivan Tatarkin   
 **Email:** namedvania@gmail.com  
@@ -818,7 +818,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20146 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1Cn8zZ3DprXKKMBomGhL7sjhB_g9ElIw4/view?usp=drive_link   
-**Pitch:** Tatarkin_PITCH   
+**Video presentazione:** Tatarkin_PITCH   
 
 ### Candidato: Joyce Tang   
 **Email:** joycetangyf@gmail.com  
@@ -829,7 +829,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20133 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/15N6sRhYduaRh3EY3oSFkix5b7e-k4Vbs/view?usp=drive_link   
-**Pitch:** Tang_PITCH   
+**Video presentazione:** Tang_PITCH   
 
 ### Candidato: Kenedy John Isaac Abui   
 **Email:** abuikennedy@gmail.com  
@@ -840,7 +840,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Pitteri, 56, 20134 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/1GreTgmfDyaNQQi1DRW5Uc-8R0mhE04XV/view?usp=drive_link   
-**Pitch:** Abui_PITCH   
+**Video presentazione:** Abui_PITCH   
 
 ### Candidato: Laura Panzarin Nerasti   
 **Email:** laura.nerasti@gmail.com  
@@ -851,7 +851,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Monsignor Guido Previtali, 11, 24040 Suisio BG, Italia   
 **CV:** https://drive.google.com/file/d/1RPGSHA_4BMiETUszBVRt2Znb_1iHSU-U/view?usp=drive_link   
-**Pitch:** Panzarin Nerasti_PITCH   
+**Video presentazione:** Panzarin Nerasti_PITCH   
 
 ### Candidato: Lucimara Vidal dos santos   
 **Email:** Lucividalcommercial@gmail.com  
@@ -862,7 +862,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20822 Seveso MB, Italy   
 **CV:** https://drive.google.com/file/d/1do40_RvZsrr62XWVJ2XS3Y9VN71e2uba/view?usp=drive_link   
-**Pitch:** Vidal dos santos_PITCH   
+**Video presentazione:** Vidal dos santos_PITCH   
 
 ### Candidato: Mija Parezanin   
 **Email:** parezanin.m02@gmail.com  
@@ -873,7 +873,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20122 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1SIpAzCD5DAvZXUvkgQTLb-BvwPl-ULSc/view?usp=drive_link   
-**Pitch:** Parezanin_PITCH   
+**Video presentazione:** Parezanin_PITCH   
 
 ### Candidato: Niamh Zanda   
 **Email:** niamhzanda@icloud.com  
@@ -884,7 +884,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20133 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/1gGd9tRzLDkJ5HiCMeu3wsRjOjkbHMuO5/view?usp=drive_link   
-**Pitch:** Zanda_PITCH   
+**Video presentazione:** Zanda_PITCH   
 
 ### Candidato: Ruomeng MA   
 **Email:** xiaolianningmeng@outlook.com  
@@ -895,7 +895,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20099 Sesto San Giovanni MI, Italy   
 **CV:** https://drive.google.com/file/d/1mhQ1_i3X0E1KTLA2cV17rWXIS_aVl7m0/view?usp=drive_link   
-**Pitch:** MA_PITCH   
+**Video presentazione:** MA_PITCH   
 
 ### Candidato: Ruxandra È˜unel   
 **Email:** ruxandrasunel@gmail.com  
@@ -906,7 +906,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Bonaventura Zumbini, 39, 20143 Milan MI, Italy   
 **CV:** https://drive.google.com/file/d/1HT_0xGpmLj5ECgswVYJp5I1LeKyvRGKG/view?usp=drive_link   
-**Pitch:** È˜unel_PITCH   
+**Video presentazione:** È˜unel_PITCH   
 
 ### Candidato: Sofia Soria   
 **Email:** sofiacuf@gmail.com  
@@ -917,7 +917,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Giovanni da Procida, 2, 20149 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1V69-Cr8s5Z9BY41FXL2aSYgvV49oFw9W/view?usp=drive_link   
-**Pitch:** Soria_PITCH   
+**Video presentazione:** Soria_PITCH   
 
 ### Candidato: Ufuosuo Da-Clarke   
 **Email:** Ufuosuo@gmail.com  
@@ -928,7 +928,7 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** 20098 Borgo Lombardo MI, Italy   
 **CV:** https://drive.google.com/file/d/1t5oaQVi4hGCHCkjXFwVh1rWBJRtPD4r9/view?usp=drive_link   
-**Pitch:** Da-Clarke_PITCH   
+**Video presentazione:** Da-Clarke_PITCH   
 
 ### Candidato: julian hurtado   
 **Email:** julianhurtado50@gmail.com  
@@ -939,4 +939,4 @@ lang: it
 **Titolo di studio:**    
 **Domicilio:** Via Giovanni Montemartini, 4, 20139 Milano MI, Italia   
 **CV:** https://drive.google.com/file/d/1bp3yGhXJlxdUzB1-CUXaL9qSo_O2SsXD/view?usp=drive_link   
-**Pitch:** hurtado_PITCH   
+**Video presentazione:** hurtado_PITCH   
